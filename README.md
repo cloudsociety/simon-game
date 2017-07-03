@@ -2,17 +2,10 @@
 
 > An fCC challenge project.
 
-## Build Setup
+See it working here: https://cloudsociety.github.io/simon-game/
 
-``` bash
-# install dependencies
-npm install
+Game design and colours inspired by [Josh Warren's flat-style Simon game](https://dribbble.com/shots/1432622-Nostalgia).
 
-# serve with hot reload at localhost:8080
-npm run dev
+Sounds thanks to Tone.js. Actual tones were taken from Wikipedia's page on the Simon game.
 
-# build for production with minification
-npm run build
-```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
