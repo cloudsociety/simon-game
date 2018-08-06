@@ -2,7 +2,7 @@
 
 > An fCC challenge project.
 
-See it working here: https://cloudsociety.github.io/simon-game/
+See it working here: https://cloudsociety.github.io/simon-game/index.html
 
 Game design and colours inspired by [Josh Warren's flat-style Simon game](https://dribbble.com/shots/1432622-Nostalgia).
 
